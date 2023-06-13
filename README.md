@@ -22,20 +22,20 @@ This repository contains code for a simple login page and jokes page implemented
 - Fetch API for data retrieval
 
 ## Floder structure
-├── src/
-│   ├── components/
-│   │   ├── Login/
-│   │   │   ├── index.js
-│   │   │   ├── index.css
-│   │   ├── Home/
-│   │   │   ├── index.js
-│   │   │   ├── index.css
-│   ├── index.js
-│   ├── index.css
-│   ├── App.js
-│   ├── App.css
-├── package.json
-├── README.md
+- ├── src/
+- │   ├── components/
+- │   │   ├── Login/
+- │   │   │   ├── index.js
+- │   │   │   ├── index.css
+- │   │   ├── Home/
+- │   │   │   ├── index.js
+- │   │   │   ├── index.css
+- │   ├── index.js
+- │   ├── index.css
+- │   ├── App.js
+- │   ├── App.css
+- ├── package.json
+- ├── README.md
 
 ## contents
 - src/components/Login/: Contains the login page components
