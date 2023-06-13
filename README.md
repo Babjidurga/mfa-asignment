@@ -19,10 +19,12 @@ CREDENTIALS:
 
 ![image](https://github.com/Babjidurga/mfa-asignment/assets/113676689/848020ac-4596-46e9-813b-3199158729ed)
 
-![image](https://github.com/Babjidurga/mfa-asignment/assets/113676689/fe210b34-9313-469c-88a7-56c403b6244b)
+
 
 
 ![image](https://github.com/Babjidurga/mfa-asignment/assets/113676689/310cfc11-856d-4d1d-bdaf-008df007d738)
+
+![image](https://github.com/Babjidurga/mfa-asignment/assets/113676689/fe210b34-9313-469c-88a7-56c403b6244b)
 
 ![image](https://github.com/Babjidurga/mfa-asignment/assets/113676689/b96f90e1-af72-47a7-b01e-b56ea829a691)
 
