@@ -1,93 +1,96 @@
 .jokes-container {
-    background-image: url("https://images.moviesanywhere.com/movie-hero/668aacc1a0a7b7b1936a0c51afd263bb.png?r=16x9&w=2560");
-    background-size: cover;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-    width: 100vw;
-    text-align: center;
-    background-position: center;
+  background-image: url("https://images.moviesanywhere.com/movie-hero/668aacc1a0a7b7b1936a0c51afd263bb.png?r=16x9&w=2560");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100vw;
+  text-align: center;
+  background-position: center;
+}
+
+.jokes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
+
+.jokes-container h1 {
+  font-weight: bold;
+  font-family: "Bree serif";
+  color: rgb(241, 244, 78);
+  font-size: 40px;
+  background-color: rgb(178, 68, 68, 0.8);
+  margin-bottom: 50px;
+  border-radius: 45%;
+  padding: 5px;
+}
+
+.joke {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  flex: 1 1 250px;
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.joke p {
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  font-weight: 700;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+}
+
+.logout-button {
+  margin-top: 20px;
+  border-radius: 8px;
+  background-color: rgba(3, 240, 42, 0.9);
+  padding: 5px;
+  color: rgba(255, 255, 255);
+  border: none;
+  outline: none;
+  font-weight: 700;
+  font-size: 20px;
+  width: 100px;
+  height: 40px;
+  padding: 5px;
+}
+
+.logout-button:hover {
+  background-color: aqua;
+}
+
+@media (max-width: 850px) {
+  .jokes-container {
+    padding-top: 35%;
   }
-  
+
   .jokes {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 15px;
+    gap: 5px;
   }
-  
+
   .jokes-container h1 {
-    font-weight: bold;
-    font-family: "Bree serif";
-    color: rgb(241, 244, 78);
-    font-size: 40px;
-    background-color: rgb(178, 68, 68, 0.8);
-    margin-bottom: 50px;
-    border-radius: 45%;
-    padding: 5px;
+    font-size: 30px;
+    margin-bottom: 0;
   }
-  
-  .joke {
-    margin: 10px;
-    padding: 10px;
-    border-radius: 5px;
-    flex: 1 1 250px;
-    background-color: rgba(255, 255, 255, 0.75);
-    border-radius: 12px;
-    border: 1px solid rgba(255, 255, 255, 0.125);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+}
+@media (max-width: 560px) {
+
+  .jokes-container h1 {
+    font-size: 30px;
+    margin-bottom: 0;
+    margin-top: 350px;
   }
-  
-  .joke p {
-    color: rgb(0, 0, 0);
-    font-size: 15px;
-    font-weight: 700;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: center;
+  .jokes-container {
+    padding-top: 45%;
   }
-  
-  .logout-button {
-    margin-top: 20px;
-    border-radius: 8px;
-    background-color: rgba(3, 240, 42, 0.9);
-    padding: 5px;
-    color: rgba(255, 255, 255);
-    border: none;
-    outline: none;
-    font-weight: 700;
-    font-size: 20px;
-    width: 100px;
-    height: 40px;
-    padding: 5px;
-  }
-  
-  .logout-button:hover {
-    background-color: aqua;
-  }
-  
-  @media (max-width: 850px) {
-    .jokes-container {
-      padding-top: 35%;
-    }
-  
-    .jokes {
-      gap: 10px;
-    }
-  
-    .jokes-container h1 {
-      font-size: 30px;
-      margin-bottom: 0;
-    }
-  }
-  @media (max-width: 576px) {
- 
-    .jokes-container h1 {
-      font-size: 30px;
-      margin-bottom: 0;
-      margin-top: 350px;
-    }
-  }
+}
