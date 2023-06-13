@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("https://img.freepik.com/free-photo/smiley-face-ball-background-sweet-retro-vintage-color_1421-379.jpg?w=1060&t=st=1686642381~exp=1686642981~hmac=5b47e39ec5018b33ce087e7365a54b7009aff73fc38b57b2fdbd565ddd5af8d4");
+    background-size: cover;
+    min-width: 100vw;
+    background-position: center;
+  }
+  .head{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 50px;
+  }
+  
+  .form-container {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    background-color: rgba(255,255,255,0.6);
+    border-radius: 8px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .form-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+    width:90%;
+  }
+  form{
+    width: 90%;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .alert {
+    margin-top: 10px;
+    color: rgb(240, 88, 27);
+    text-align: center;
+  }
