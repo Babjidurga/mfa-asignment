@@ -8,6 +8,11 @@ This repository contains code for a simple login page and jokes page implemented
 - Jokes page fetches jokes from an API and displays them to the user
 
 ## OUTPUT FUNCTIONALITY 
+https://mfa-asignment.vercel.app/
+
+CREDENTIALS:
+- username: admin
+- password: password
 
 
 ## Features
