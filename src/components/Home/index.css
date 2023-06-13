@@ -30,8 +30,8 @@
 }
 
 .joke {
-  margin: 10px;
-  padding: 10px;
+  margin-bottom: 3px;
+  padding: 2px;
   border-radius: 5px;
   flex: 1 1 250px;
   background-color: rgba(255, 255, 255, 0.75);
@@ -92,5 +92,16 @@
   }
   .jokes-container {
     padding-top: 45%;
+  }
+}
+@media (max-width: 560px) {
+
+  .jokes-container h1 {
+    font-size: 30px;
+    margin-bottom: 0;
+    margin-top: 450px;
+  }
+  .jokes-container {
+    padding-top: 55%;
   }
 }
