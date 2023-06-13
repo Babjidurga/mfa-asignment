@@ -48,4 +48,4 @@ This repository contains code for a simple login page and jokes page implemented
 - src/index.css, src/App.css, src/components/Login/index.css, src/components/Home/index.css: CSS stylesheets
 - 
 ## For a better understanding
-[https://www.loom.com/share/696e09d0233a446392fe2993c765e60a](https://www.loom.com/share/696e09d0233a446392fe2993c765e60a?sid=19d075fe-96f8-4ac0-9551-797ce85c3c1e)https://www.loom.com/share/696e09d0233a446392fe2993c765e60a?sid=19d075fe-96f8-4ac0-9551-797ce85c3c1e
+[https://www.loom.com/share/696e09d0233a446392fe2993c765e60a](https://www.loom.com/share/696e09d0233a446392fe2993c765e60a?sid=19d075fe-96f8-4ac0-9551-797ce85c3c1e)
