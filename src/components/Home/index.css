@@ -30,7 +30,7 @@
 }
 
 .joke {
-  margin-bottom: 3px;
+  margin: 0 3px 3px 3px;
   padding: 2px;
   border-radius: 5px;
   flex: 1 1 250px;
