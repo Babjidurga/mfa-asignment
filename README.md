@@ -24,7 +24,8 @@ CREDENTIALS:
 
 ![image](https://github.com/Babjidurga/mfa-asignment/assets/113676689/310cfc11-856d-4d1d-bdaf-008df007d738)
 
-![image](https://github.com/Babjidurga/mfa-asignment/assets/113676689/ac8bb29f-d765-4ebf-9353-d92e61b693ce)
+![image](https://github.com/Babjidurga/mfa-asignment/assets/113676689/b96f90e1-af72-47a7-b01e-b56ea829a691)
+
 
 
 
